@@ -1,0 +1,8 @@
+# ninja log v6
+12	890	7793687491594984	CMakeFiles/lab8.dir/main.cpp.obj	87f780b08d7661d1
+891	1101	7793687500381961	lab8.exe	5cb7787eeb6e26e4
+27	184	7793682344124277	CMakeFiles/lab8.dir/LimitedCounter.cpp.obj	9f3885a5c9a7becb
+31	230	7793694681710838	CMakeFiles/lab8.dir/LimitedCounter.cpp.obj	9f3885a5c9a7becb
+69	254	7793694682085196	CMakeFiles/lab8.dir/OverflowCounter.cpp.obj	88f514e21bfa4cfb
+8	865	7793694681474405	CMakeFiles/lab8.dir/main.cpp.obj	87f780b08d7661d1
+865	1074	7793694690048799	lab8.exe	3a8861c6d6e901f0

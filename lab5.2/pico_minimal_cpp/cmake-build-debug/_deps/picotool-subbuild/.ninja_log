@@ -1,0 +1,21 @@
+# ninja log v6
+2	86	7787896637485996	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	6e7370eaaf8b9146
+2	86	7787896637485996	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	6e7370eaaf8b9146
+86	2703	7787896663661749	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	c911805be97af8b1
+86	2703	7787896663661749	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	c911805be97af8b1
+2704	2912	7787896663732657	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	fa86ef4e2f781d74
+2704	2912	7787896663732657	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	fa86ef4e2f781d74
+2912	2994	7787896666565518	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	619566600e1037a5
+2912	2994	7787896666565518	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	619566600e1037a5
+2994	3077	7787896667391015	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	6b96817102a9619c
+2994	3077	7787896667391015	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	6b96817102a9619c
+3077	3155	7787896668185752	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	dd767fbe54d33004
+3077	3155	7787896668185752	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	dd767fbe54d33004
+3155	3236	7787896668986207	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	46db9728fabca113
+3155	3236	7787896668986207	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	46db9728fabca113
+3236	3317	7787896669790282	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	458d5b5956cc0d72
+3236	3317	7787896669790282	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	458d5b5956cc0d72
+3318	3429	7787896670907605	CMakeFiles/picotool-populate-complete	c20396ce9a0edcf5
+3318	3429	7787896670907605	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	c20396ce9a0edcf5
+3318	3429	7787896670907605	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete	c20396ce9a0edcf5
+3318	3429	7787896670907605	C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	c20396ce9a0edcf5

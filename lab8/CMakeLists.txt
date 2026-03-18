@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.30)
+project(lab8)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(lab8 main.cpp
+        Counter.h
+        LimitedCounter.cpp
+        LimitedCounter.h
+        OverflowCounter.cpp
+        OverflowCounter.h)

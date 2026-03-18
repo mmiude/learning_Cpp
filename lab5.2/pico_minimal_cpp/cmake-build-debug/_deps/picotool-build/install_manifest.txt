@@ -1,0 +1,7 @@
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/picotool.exe
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/picotoolTargets.cmake
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/picotoolTargets-release.cmake
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/picotoolConfig.cmake
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/picotoolConfigVersion.cmake
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/enc_bootloader.elf
+C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool/enc_bootloader_mbedtls.elf
