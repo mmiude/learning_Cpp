@@ -1,7 +1,0 @@
-# ninja log v6
-7	937	7798839242208897	CMakeFiles/lab7.dir/main.cpp.obj	4ac5b567037e7ad1
-53	926	7797169368817949	CMakeFiles/lab7.dir/Person.cpp.obj	48ca60d2d885d753
-1020	1258	7798842132110001	lab7.exe	24f6f76ff9a341e3
-7	1019	7798842121985202	CMakeFiles/lab7.dir/Spy.cpp.obj	10b6a96b86a193b4
-75	999	7798829998549844	CMakeFiles/lab7.dir/Judge.cpp.obj	4f8cb976e5e27b74
-6	476	7851585564371801	build.ninja	2343c38dafec4af5

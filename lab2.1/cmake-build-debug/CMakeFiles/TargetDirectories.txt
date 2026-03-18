@@ -1,3 +1,0 @@
-C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab2.1/cmake-build-debug/CMakeFiles/lab2_1.dir
-C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
