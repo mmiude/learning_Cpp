@@ -1,2 +1,0 @@
-C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
-C:/Users/Mmiud/Documents/IoT_laitteiden_oliot/lab5/pico_minimal_cpp/cmake-build-debug/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir
